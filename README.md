@@ -22,6 +22,6 @@
 The data used for training our AI model was taken from Dress Code Dataset © Yoox Net-a-Porter Group S.p.A., with Signed Agreeement of not sharing it anywhere. 
 
 ### Team Members: 
-Siddharth Shankar Das
-Daksh Bagga
-Moin Ahmed Zahir
+* Siddharth Shankar Das
+* Daksh Bagga
+*   Moin Ahmed Zahir
